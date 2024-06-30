@@ -1,0 +1,11 @@
+# module files
+/node_modules
+
+# environment files
+.env
+
+# lock files
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.vercel

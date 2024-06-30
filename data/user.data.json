@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Raz Zesh",
+    "email": "razzesh@gmail.com",
+    "password": "Razzesh@123",
+    "website": {
+      "name": "Beamer Project-X"
+    }
+  },
+  {
+    "name": "Hasibul Islam",
+    "email": "hasib@gmail.com",
+    "password": "Hasib@123",
+    "website": {
+      "name": "Beamer Project-Y",
+      "url": "https://devhasibulislam.vercel.app"
+    }
+  },
+  {
+    "name": "Md. Rakib Mia",
+    "email": "rakib@gmail.com",
+    "password": "Rakib@123",
+    "website": {
+      "name": "Beamer Project-Z",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur ab consectetur alias nam explicabo possimus hic. Nesciunt necessitatibus magni asperiores autem sed numquam voluptatum nulla assumenda veniam laborum. Mollitia, quam?"
+    }
+  },
+  {
+    "name": "Ayon Zodder",
+    "email": "ayon@gmail.com",
+    "password": "Ayon@123",
+    "website": {
+      "name": "Beamer Project-Z",
+      "categoryy": "blog"
+    }
+  },
+  {
+    "name": "Matteo Hon",
+    "email": "matteo@gmail.com",
+    "password": "Matteo@123",
+    "website": {
+      "name": "Beamer Project-K",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur ab consectetur alias nam explicabo possimus hic. Nesciunt necessitatibus magni asperiores autem sed numquam voluptatum nulla assumenda veniam laborum. Mollitia, quam?",
+      "url": "https://messagemindai.vercel.app",
+      "category": "saas"
+    }
+  }
+]
